@@ -1,0 +1,21 @@
+.btn{
+    border-radius: 10%;
+    margin: 20px;
+}
+
+.button{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.btn1{
+   font-size: 20px;
+}
+
+.btn2{
+    padding: 15px;
+}
+
